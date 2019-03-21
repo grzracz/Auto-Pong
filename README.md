@@ -1,5 +1,5 @@
 # Pong game
-Written on 9 Mar 2019.
+*Written on 9 Mar 2019.*
 
 Pong game written in JavaScript that plays itself.
 
